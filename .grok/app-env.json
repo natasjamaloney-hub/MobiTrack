@@ -1,0 +1,7 @@
+{
+  "appName": "MobiTrack",
+  "environment": "published-live",
+  "sourceArchive": "grok-workspace.zip",
+  "workspace": ".grok",
+  "status": "extracted"
+}
